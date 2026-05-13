@@ -1,10 +1,14 @@
-# {Paper title} ({arxiv-id})
+---
+type: paper-note
+arxiv-id: 
+authors: 
+venue: 
+url: 
+status: [Reading / Read / Deep-read / Reference-only]
+tags: []
+---
 
-**Authors:** {authors}
-**Venue:** {arxiv / NeurIPS / ICRA / CoRL / ...}
-**Date:** {YYYY-MM}
-**URL:** {arxiv link}
-**Status:** [Reading / Read / Deep-read / Reference-only]
+# {Paper title}
 
 ## TL;DR
 

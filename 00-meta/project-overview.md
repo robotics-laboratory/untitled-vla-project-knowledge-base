@@ -1,3 +1,7 @@
+---
+type: meta
+---
+
 # Project Overview
 
 **Status:** [Active / Paused / Complete]

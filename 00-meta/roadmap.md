@@ -1,3 +1,7 @@
+---
+type: meta
+---
+
 # Roadmap
 
 ## Phase 1 — {name}
